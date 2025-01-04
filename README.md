@@ -9,11 +9,10 @@
 - ⚡ Fun fact **aesthetic....**
 
 ### 🎯 Achievements:
-- Top 10 in Hackathon XYZ
-- Contributed to XYZ open-source project
+- Earned 5 stars in Java on HackerRank
+- 4 stars in Problem Solving on HackerRank
+- Completed more than 100 questions on LeetCode
 
-### 🎧 Current Spotify Song:
-![Spotify Now Playing](https://spotify-now-playing-hype.vercel.app/api/spotify)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
