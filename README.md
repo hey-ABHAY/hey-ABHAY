@@ -17,7 +17,7 @@
 ### 📫 How to reach me:
 - **Email**: [abhaysingh5432167@gmail.com](mailto:abhaysingh5432167@gmail.com)
 - **LeetCode**: [@abhaysingh_13](https://www.leetcode.com/abhaysingh_13)
-- **HackerEarth**: [@ai1a_2310286](https://www.hackerearth.com/@ai1a_2310286)
+- **Hackerrank**: [@ai1a_2310286](https://www.hackerearth.com/@ai1a_2310286)
 
 ### 🎯 Achievements:
 - Earned 5 stars in Java on HackerRank
