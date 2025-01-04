@@ -1,33 +1,61 @@
-\### Hi 👋
+<h1 align="center">Hi 👋, I'm Abhay Pratap Singh</h1>
+<h3 align="center">Lost in algorithms and coding challenges...</h3>
 
-I'm **Abhay Pratap Singh**, a Computer Science and Engineering (AI) enthusiast passionate about **Machine Learning**, **Full Stack Development**, and programming in multiple languages.
+<p align="center">
+  <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" alt="coding" width="400" />
+</p>
 
-### ✍️ Languages
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=hey-abhay&label=Profile%20views&color=0e75b6&style=flat" alt="hey-abhay" />
+</p>
 
-![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+### 👨‍💻 About Me
+- I am a **Computer Science and Engineering (AI) student** with a passion for **solving real-world problems** using algorithms and data structures.
+- I enjoy **coding**, building **projects**, and exploring **new technologies**.
+- Currently learning and building **full-stack applications**, with a focus on **AI** and **Machine Learning**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-singh&layout=compact&hide=javascript,css,html,jupyter%20notebook)
+### 📫 How to reach me:
+- **Email**: [abhaysingh5432167@gmail.com](mailto:abhaysingh5432167@gmail.com)
+- **LeetCode**: [@abhaysingh_13](https://www.leetcode.com/abhaysingh_13)
+- **HackerEarth**: [@ai1a_2310286](https://www.hackerearth.com/@ai1a_2310286)
 
-### 🛠 Tech Stack and Tools
+### 🎯 Achievements:
+- Earned 5 stars in Java on HackerRank
+- 4 stars in Problem Solving on HackerRank
+- Completed more than 100 questions on LeetCode
+---
 
-| Category     | Stack                                                                                                                                                                                                                                                       |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)|
-| **Tools**      | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code) ![PyCharm](https://img.shields.io/badge/-PyCharm-3a3a3a?style=flat&logo=pycharm) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)|
-| **Libraries**  | ![scikit-learn](https://img.shields.io/badge/-scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib) ![Tkinter](https://img.shields.io/badge/-Tkinter-2c2d72?style=flat&logo=tkinter&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)|
-| **Frameworks** | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)|
+### 💻 Languages and Tools:
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+</p>
 
-### 💻 My Journey
+### 📈 GitHub Stats
+- **Top Languages**: Java, Python, C, JavaScript
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-abhay&langs_count=6&layout=compact&theme=radical)
 
-- **Languages I enjoy coding in**: Python (60%) - Java - C - JavaScript - HTML
-- **Tools I love using**: VS Code, GitHub, IntelliJ IDEA, PyCharm
-- **Libraries I often work with**: scikit-learn, NumPy, Pandas, Matplotlib
-- **Frameworks I build with**: Flask, Spring Boot
+- **GitHub Stats**:  
+![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hey-abhay&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-### 🔗 Let's Connect
+- **Contribution Graph**:  
+![Abhay's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=hey-abhay&theme=react-dark)
+
+---
+
+### 🏆 Fun Fact:
+- I'm a **coding enthusiast** who loves exploring new technologies and solving complex problems. I often find myself getting lost in the intricacies of **algorithms**!
+
+---
+
+### 🚀 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/abhay-singh-b47405315)
-- [Email](mailto:2k23.csai2310286@gmail.com)
+- [Twitter](https://twitter.com/Abhay_Singh)
+
+---
+
+### 👨‍💻 Personal Projects:
+Check out my repositories for personal projects ranging from AI-based applications to full-stack development projects.
