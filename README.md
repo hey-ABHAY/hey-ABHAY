@@ -1,61 +1,76 @@
-<h1 align="center">Hi 👋, I'm Abhay Pratap Singh</h1>
-<h3 align="center">Lost in algorithms and coding challenges...</h3>
+<!-- Header -->
+<h1 align="center">Hi 👋, I’m Abhay Pratap Singh</h1>
+<h3 align="center">AI Engineer in training | GenAI · RAG · Azure · Full‑Stack Enthusiast</h3>
+
+<!-- Hero GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" alt="coding" width="400"/>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hey-abhay&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+### 🔭 What I’m Working On
+- 📄 **PDF Q&A Assistant** – RAG pipeline with LangChain, Azure Cognitive Search & Streamlit  
+- 🤖 **Agentic Chatbot** – LangChain + OpenAI function-calling hosted on Azure Functions  
+- ⚙️ **Fine-tuning LLaMA‑2** using QLoRA with evaluation and prompt tracking  
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" alt="coding" width="400" />
+  <img src="https://img.shields.io/badge/Python‑3.11‑3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux‑FCCC6C?style=flat&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Azure‑0078D4?style=flat&logo=azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/OpenAI‑000000?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain‑000000?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/React‑61DAFB?style=flat&logo=react&logoColor=white" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/Tailwind‑38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Docker‑2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub‑100000?style=flat&logo=github&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hey-abhay&label=Profile%20views&color=0e75b6&style=flat" alt="hey-abhay" />
-</p>
-
-### 👨‍💻 About Me
-- I am a **Computer Science and Engineering (AI) student** with a passion for **solving real-world problems** using algorithms and data structures.
-- I enjoy **coding**, building **projects**, and exploring **new technologies**.
-- Currently learning and building **full-stack applications**, with a focus on **AI** and **Machine Learning**.
-
-### 📫 How to reach me:
-- **Email**: [abhaysingh5432167@gmail.com](mailto:abhaysingh5432167@gmail.com)
-- **LeetCode**: [@abhaysingh_13](https://www.leetcode.com/abhaysingh_13)
-- **Hackerrank**: [@ai1a_2310286](https://www.hackerearth.com/@ai1a_2310286)
-
-### 🎯 Achievements:
-- Earned 5 stars in Java on HackerRank
-- 4 stars in Problem Solving on HackerRank
-- Completed more than 100 questions on LeetCode
 ---
-
-### 💻 Languages and Tools:
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-</p>
 
 ### 📈 GitHub Stats
-- **Top Languages**: Java, Python, C, JavaScript
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-abhay&langs_count=6&layout=compact&theme=radical)
-
-- **GitHub Stats**:  
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hey-abhay&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
-- **Contribution Graph**:  
-![Abhay's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=hey-abhay&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hey-abhay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-abhay&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ---
 
-### 🏆 Fun Fact:
-- I'm a **coding enthusiast** who loves exploring new technologies and solving complex problems. I often find myself getting lost in the intricacies of **algorithms**!
+### 💻 LeetCode
+- Completed **210+** LeetCode challenges: 🔁 Arrays · Strings · Trees · DP · Graphs  
 
 ---
 
-### 🚀 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/abhay-singh-b47405315)
-- [Twitter](https://twitter.com/Abhay_Singh)
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/abhay-singh-b47405315">
+    <img src="https://img.shields.io/badge/LinkedIn-abhay_singh-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Abhay_Singh">
+    <img src="https://img.shields.io/badge/Twitter-@Abhay_Singh-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"/>
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 Personal Projects:
-Check out my repositories for personal projects ranging from AI-based applications to full-stack development projects.
+### 🚀 Top Projects
+| Project | Description |
+|--------|-------------|
+|**PDF Q&A Assistant**| RAG pipeline with Azure Cognitive Search + Streamlit |
+|**Agentic Chatbot**| Function-calling LLM bot deployed on Azure Functions |
+|**Customer Churn Predictor**| TensorFlow ANN deployed via Streamlit UI |
+
+---
+
+### ✨ Fun Fact
+```text
+Lost in algorithms & LLMs — always debugging, rarely sleeping 😄
