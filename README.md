@@ -14,23 +14,38 @@
 
 ## 🔧 Skills & Emblems
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
-  
-  <!-- ML / GenAI Frameworks -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface" />
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,azure" />
-
-  <!-- Manual icons for LangChain, Streamlit, OpenAI -->
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/main/frameworks/streamlit.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/main/cloud/openai.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/valeriupredoi/github-profile-readme-open-source-icons/main/icons/langchain.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" width="40" />
+  <br><sub>Python &nbsp;&nbsp; Java &nbsp;&nbsp; C</sub>
 </p>
+
+<p align="center">
+  <!-- Data & ML Frameworks -->
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,keras,tensorflow,pytorch" width="40" />
+  <br><sub>pandas &nbsp;&nbsp; numpy &nbsp;&nbsp; scikit-learn &nbsp;&nbsp; Keras &nbsp;&nbsp; TensorFlow &nbsp;&nbsp; PyTorch</sub>
+</p>
+
+<p align="center">
+  <!-- NLP & GenAI -->
+  <img src="https://skillicons.dev/icons?i=nltk,huggingface,langchain,azure" width="40" />
+  <br><sub>NLTK &nbsp;&nbsp; Hugging Face &nbsp;&nbsp; LangChain &nbsp;&nbsp; Azure</sub>
+</p>
+
+<p align="center">
+  <!-- Special ML Topics -->
+  <img src="https://skillicons.dev/icons?i=ml,machinelearning,deeplearning,rnn,lstm" width="40" />
+  <br><sub>Machine Learning &nbsp;&nbsp; Deep Learning &nbsp;&nbsp; RNN &nbsp;&nbsp; LSTM</sub>
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=streamlit,openai,git,github,vscode" width="40" />
+  <br><sub>Streamlit &nbsp;&nbsp; OpenAI &nbsp;&nbsp; Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; VS Code</sub>
+</p>
+
 
 
 ---
