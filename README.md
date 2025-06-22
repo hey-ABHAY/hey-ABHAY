@@ -14,15 +14,24 @@
 
 ## 🔧 Skills & Emblems
 
+### 🛠️ Skills & Tools
+
 <p align="center">
-  <!-- Languages & Tools -->
-  <img src="https://skillicons.dev/icons?i=python,c,java,cpp" alt="Languages"/>
-  <!-- Machine Learning & GenAI -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,langchain,azure" alt="ML Tools"/>
-  <!-- Logos from Yurij Serrano -->
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/main/programming%20languages/python.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/main/programming%20languages/java.svg" width="40"/>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+  
+  <!-- ML / GenAI Frameworks -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface" />
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,azure" />
+
+  <!-- Manual icons for LangChain, Streamlit, OpenAI -->
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/main/frameworks/streamlit.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/main/cloud/openai.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/valeriupredoi/github-profile-readme-open-source-icons/main/icons/langchain.svg" width="40" />
 </p>
+
 
 ---
 
