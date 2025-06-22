@@ -1,76 +1,61 @@
-<!-- Header -->
+<!-- HEADER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" alt="coding" width="300"/>
+</p>
+
 <h1 align="center">Hi 👋, I’m Abhay Pratap Singh</h1>
-<h3 align="center">AI Engineer in training | GenAI · RAG · Azure · Full‑Stack Enthusiast</h3>
+<h3 align="center">Lost in Algorithms & GenAI | 210+ LeetCode Done</h3>
 
-<!-- Hero GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" alt="coding" width="400"/>
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hey-abhay&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=hey-abhay&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🔭 What I’m Working On
-- 📄 **PDF Q&A Assistant** – RAG pipeline with LangChain, Azure Cognitive Search & Streamlit  
-- 🤖 **Agentic Chatbot** – LangChain + OpenAI function-calling hosted on Azure Functions  
-- ⚙️ **Fine-tuning LLaMA‑2** using QLoRA with evaluation and prompt tracking  
-
----
-
-### 🛠️ Tech Stack
+## 🔧 Skills & Emblems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python‑3.11‑3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Linux‑FCCC6C?style=flat&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Azure‑0078D4?style=flat&logo=azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/OpenAI‑000000?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/LangChain‑000000?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/React‑61DAFB?style=flat&logo=react&logoColor=white" alt="ReactJS"/>
-  <img src="https://img.shields.io/badge/Tailwind‑38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Docker‑2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub‑100000?style=flat&logo=github&logoColor=white" alt="GitHub Actions"/>
+  <!-- Languages & Tools -->
+  <img src="https://skillicons.dev/icons?i=python,c,java,cpp" alt="Languages"/>
+  <!-- Machine Learning & GenAI -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,langchain,azure" alt="ML Tools"/>
+  <!-- Logos from Yurij Serrano -->
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/main/programming%20languages/python.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/main/programming%20languages/java.svg" width="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🧠 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hey-abhay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-abhay&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hey-abhay&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-abhay&theme=dark" alt="Streak Stats"/>
 </p>
 
 ---
 
-### 💻 LeetCode
-- Completed **210+** LeetCode challenges: 🔁 Arrays · Strings · Trees · DP · Graphs  
+## 🚀 GitHub Activity
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=hey-abhay&theme=react-dark)
 
 ---
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/abhay-singh-b47405315">
-    <img src="https://img.shields.io/badge/LinkedIn-abhay_singh-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Abhay_Singh">
-    <img src="https://img.shields.io/badge/Twitter-@Abhay_Singh-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"/>
-  </a>
-</p>
+## 📂 Projects & Focus
+
+- **PDF Q&A Assistant** – RAG pipeline (LangChain, Azure OpenAI, Cognitive Search)
+- **Agentic Chatbot** – Function-calling LLM agent on Azure Functions
+- **ANN Customer Churn Model** – TensorFlow deployment with Streamlit
 
 ---
 
-### 🚀 Top Projects
-| Project | Description |
-|--------|-------------|
-|**PDF Q&A Assistant**| RAG pipeline with Azure Cognitive Search + Streamlit |
-|**Agentic Chatbot**| Function-calling LLM bot deployed on Azure Functions |
-|**Customer Churn Predictor**| TensorFlow ANN deployed via Streamlit UI |
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Singh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhay-singh-b47405315)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-210%2B_Shared-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/abhaysingh_13/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Solved-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ai1a_2310286)
 
 ---
 
-### ✨ Fun Fact
-```text
-Lost in algorithms & LLMs — always debugging, rarely sleeping 😄
+### ⚡ Fun Fact
+> Always debugging, rarely sleeping — AI-driven and coffee-powered 😄
