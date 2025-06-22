@@ -44,11 +44,6 @@
 
 ---
 
-## 🚀 GitHub Activity
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=hey-abhay&theme=react-dark)
-
----
 
 ## 📂 Projects & Focus
 
