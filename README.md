@@ -1,80 +1,48 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" alt="coding" width="300"/>
-</p>
-
-<h1 align="center">Hi 👋, I’m Abhay Pratap Singh</h1>
-<h3 align="center">Lost in Algorithms & GenAI | 210+ LeetCode Done</h3>
+## 🚀 Skills & Technologies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hey-abhay&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-## 🔧 Skills & Emblems
-
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,c" width="40" />
-  <br><sub>Python &nbsp;&nbsp; Java &nbsp;&nbsp; C</sub>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <!-- Data & ML Frameworks -->
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,keras,tensorflow,pytorch" width="40" />
-  <br><sub>pandas &nbsp;&nbsp; numpy &nbsp;&nbsp; scikit-learn &nbsp;&nbsp; Keras &nbsp;&nbsp; TensorFlow &nbsp;&nbsp; PyTorch</sub>
+  <!-- ML/DL -->
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <!-- Data Tools -->
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="center">
   <!-- NLP & GenAI -->
-  <img src="https://skillicons.dev/icons?i=nltk,huggingface,langchain,azure" width="40" />
-  <br><sub>NLTK &nbsp;&nbsp; Hugging Face &nbsp;&nbsp; LangChain &nbsp;&nbsp; Azure</sub>
+  <img src="https://img.shields.io/badge/-HuggingFace-FCC624?logo=huggingface&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?logo=chainlink&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-NLTK-76B900?logo=numpy&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <!-- Special ML Topics -->
-  <img src="https://skillicons.dev/icons?i=ml,machinelearning,deeplearning,rnn,lstm" width="40" />
-  <br><sub>Machine Learning &nbsp;&nbsp; Deep Learning &nbsp;&nbsp; RNN &nbsp;&nbsp; LSTM</sub>
+  <!-- Concepts -->
+  <img src="https://img.shields.io/badge/-Machine_Learning-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Deep_Learning-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-RNN-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-LSTM-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-RAG-FF7F50?style=for-the-badge" />
 </p>
 
 <p align="center">
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=streamlit,openai,git,github,vscode" width="40" />
-  <br><sub>Streamlit &nbsp;&nbsp; OpenAI &nbsp;&nbsp; Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; VS Code</sub>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 </p>
-
-
-
----
-
-## 🧠 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hey-abhay&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-abhay&theme=dark" alt="Streak Stats"/>
-</p>
-
----
-
-
-## 📂 Projects & Focus
-
-- **PDF Q&A Assistant** – RAG pipeline (LangChain, Azure OpenAI, Cognitive Search)
-- **Agentic Chatbot** – Function-calling LLM agent on Azure Functions
-- **ANN Customer Churn Model** – TensorFlow deployment with Streamlit
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Singh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhay-singh-b47405315)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-210%2B_Shared-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/abhaysingh_13/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Solved-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ai1a_2310286)
-
----
-
-### ⚡ Fun Fact
-> Always debugging, rarely sleeping — AI-driven and coffee-powered 😄
