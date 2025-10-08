@@ -97,7 +97,7 @@
 
 ## 🏆 Achievements
 
-- ✅ Solved **210+ LeetCode** problems (DSA: Trees, DP, Graphs)
+- ✅ Solved **280+ LeetCode** problems (DSA: Trees, DP, Graphs)
 - ⭐ 5-Star Java on HackerRank  
 - 🌟 4-Star Problem Solving on HackerRank
 
